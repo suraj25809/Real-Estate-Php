@@ -1,0 +1,54 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+:root {
+	 --theme-ordinary-color: #74777b;  /* theme ordinay font color ok*/
+}
+:root {
+	 --theme-primary-color: #17c788;  /* theme primary color ok*/
+}
+:root {
+	 --theme-secondary-color: #0d1432;  /* theme secondary color ok*/
+}
+:root {
+	 --theme-white-color: #fff;  /* theme white font color ok*/
+}
+:root {
+	 --theme-light-color: #f8f8f8;  /* theme light gray color */
+}
+:root {
+	 --theme-gray-color: #f5f5f5;  /* theme gray color ok*/
+}
+:root {
+	 --theme-footer-color: #091b4b;  /* theme dark color */
+}
+:root {
+	 --theme-dark-color: #091b4b;  /* theme dark color */
+}
+:root {
+	 --text-light-color: #a3a7af;  /* Light text color to use in dark area */
+}
+:root {
+	 --theme-primary-opacity-color: rgba(11, 191, 141, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-secondary-opacity-color: rgba(13,20,50,0.7);  /* theme secondary color ok*/
+}
+:root {
+	 --theme-white-opacity-color: rgba(255, 255, 255, 0.3);  /* theme light color */
+}
+:root {
+	 --theme-dark-opacity-color: rgba(0, 0, 0, 0.5);  /* theme dark color ok*/
+}
+/*==================================
+Font Variable
+==================================*/
+:root {
+	 --theme-ordinary-font: 'Muli', sans-serif;  /* Font use for normal text and general text ok*/
+}
+:root {
+	 --theme-highlight-font: 'Comfortaa', cursive;  /* Font used in title or special area ok*/
+}
+
+
+
